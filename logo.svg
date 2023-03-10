@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+    <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+    <svg width="500" height="500"  xmlns="http://www.w3.org/2000/svg"
+        xmlns:link="http://www.w3.org/1999/xlink">
+        <polygon points="240, 0 90,340 390,340" stroke="black" fill="green"/>
+        <text y="300" x="150" font-size="100px">
+        <tspan font-weight="bolder" font-family="monospace" fill="white">PDD</tspan>
+        </text>
+    </svg> 
